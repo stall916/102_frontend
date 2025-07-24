@@ -1,33 +1,15 @@
-h1{
-    color:green
-}
-
-h2{
-    color:blue
-}
-
-h3{
-    color:rgb(0, 0, 0)
-}
-
-#economia{
-    background-color:brown;
-}
-
-#esporte{
-    background-color: gray;
-}
-
-.creation-date{
-    color: lightgray;
-}
 *{
-    color: rgb(13, 44, 139);
+    color: rgb(14, 144, 21);
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%
 }
+
+header li{
+    display: inline;
+}
+
 .container{
-    width: 1366px;
-    margin: 0 auto 0 auto;
+    width: 1264px
+    margin: 0, auto, 0, auto;
 }
